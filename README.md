@@ -1,5 +1,5 @@
 # 💫 About Me:
-My name is blsreda and I am a web developer with a focus on front-end development.<br> I have a passion for creating user-friendly and visually<br> appealing websites, and I am constantly learning and <br>expanding my skillset in order to stay up-to-date with the latest trends<br> and technologies in the field. In my free time, I enjoy experimenting with new design <br>tools and techniques, as well as collaborating with other developers on open source<br> projects. I am always open to new opportunities and challenges, and I welcome the <br>chance to work with like-minded individuals who share my passion for building<br> innovative web experiences.
+My name is blsreda and I am a Junior Front End  developer with a focus on front-end development.<br> I have a passion for creating user-friendly and visually<br> appealing websites, and I am constantly learning and <br>expanding my skillset in order to stay up-to-date with the latest trends<br> and technologies in the field. In my free time, I enjoy experimenting with new design <br>tools and techniques, as well as collaborating with other developers on open source<br> projects. I am always open to new opportunities and challenges, and I welcome the <br>chance to work with like-minded individuals who share my passion for building<br> innovative web experiences.
 
 
 ## 🌐 Socials:
