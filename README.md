@@ -2,7 +2,7 @@
 My name is Bellassery Mohamed Reda and I am a Junior Front End  developer with a focus on front-end development.<br> I have a passion for creating user-friendly and visually<br> appealing websites, and I am constantly learning and <br>expanding my skillset in order to stay up-to-date with the latest trends<br> and technologies in the field. In my free time, I enjoy experimenting with new design <br>tools and techniques, as well as collaborating with other developers on open source<br> projects. I am always open to new opportunities and challenges, and I welcome the <br>chance to work with like-minded individuals who share my passion for building<br> innovative web experiences.
 
 ## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://blsreda.online/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://blsreda.com/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/blsreda/)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bls.reda) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@bl.sreda) 
